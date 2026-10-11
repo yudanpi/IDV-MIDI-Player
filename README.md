@@ -4,10 +4,6 @@
 原项目：https://github.com/sabihoshi/GenshinLyreMidiPlayer
 保留 LICENSE.md 和 THIRD-PARTY-NOTICES.md；本修改版非官方软件。
 
-## 下载
-
-[下载 v1.0 Windows 64 位便携版](https://github.com/yudanpi/IDV-MIDI-Player/releases/tag/v1.0)
-
 ## 使用
 
 完整解压便携 ZIP，运行 GenshinLyreMidiPlayer.WPF.exe（沿用原管理员权限清单）。
@@ -44,7 +40,7 @@
 原生 WPF 界面采用红色强调、侧栏导航、曲目卡片与底部播放栏，播放速度位于播放栏右侧。
 支持浅色、深色与原有主题设置。面板保留圆角和基础半透明样式；已移除折射、玻璃边缘、高光、面板背景采样与模糊渲染，以降低滚动和调整窗口时的开销。
 
-设置顶部仅保留一个“启用黑键”开关，切换后立即保存；原始默认键位开启时自动切换到第五人格 36 键布局，有效自定义键位保持原样。手动修改键位后仍使用“保存键位”。
+设置顶部仅保留一个“启用黑键”开关，切换后立即保存。
 庄园钢琴封面为本次生成的默认装饰图，不表示 MIDI 自带封面。
 最小窗口尺寸为 900×720，默认 1120×850。已删除的设置项目没有恢复。
 修改前的界面相关文件位于 ui-backup-before-glass；原生渲染示例位于 ui-preview。
